@@ -1,15 +1,15 @@
-function fibonacci(N::Int64)
+function fibonacci(N)
     
     # Initialize a vector of integers with enough terms    
-    F = zeros(Int64,N)    
+    F = zeros(Int64,N)
 
     # First two terms in the series
-    F[1] = 0
-    F[2] = 1
-    
+    F[1] = 
+    F[2] = 
+
     # The rest of terms
     for i = 3:N
-        F[i] = F[i-1] + F[i-2] 
+        F[i] = 
     end
 
     # Return value for the function
