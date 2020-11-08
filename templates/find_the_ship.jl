@@ -11,7 +11,7 @@ c =
 # Invert the matrix and solve the linear system
 S =  
 x_ship = 
-y_ship = 
+y_ship =
 
 # Print the coordinates of the ship on the console
 println(   )
